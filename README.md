@@ -1,2 +1,2 @@
-# deep-sea
-Dark Cyan Theme for XFCE
+# Dark Cyan Theme for XFCE
+![Screen](Screenshot.png)

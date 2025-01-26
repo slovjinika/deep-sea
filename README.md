@@ -1,2 +1,4 @@
 # Dark Cyan Theme for XFCE
-![Screen](Screenshot.png)
+![Screen](Screenshot.jpg)
+
+Fork HackerRed
